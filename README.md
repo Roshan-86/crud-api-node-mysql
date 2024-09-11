@@ -17,8 +17,8 @@ This is a Node.js project using **Express.js** and **MySQL** for basic CRUD oper
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/node-express-mysql.git
-cd node-express-mysql
+git clone https://github.com/Roshan-86/crud-api-node-mysql.git
+cd crud-api-node-mysql
 ```
 ### 2. Install Dependencies
  - Install Express:
